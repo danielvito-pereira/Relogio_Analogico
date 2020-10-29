@@ -25,7 +25,7 @@
 }
 .hour-marks {
     fill: none;
-    stroke: #000;
+    stroke: rgb(68, 67, 67);
     stroke-width: 9;
     stroke-miterlimit: 10;
 }
@@ -46,7 +46,7 @@
 
 .second-arm {
     fill: none;
-    stroke: #000;
+    stroke: rgb(253, 4, 4);
     stroke-width: 4;
     stroke-miterlimit: 10;
 }
